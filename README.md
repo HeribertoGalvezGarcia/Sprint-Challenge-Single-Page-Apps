@@ -27,6 +27,9 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
+It lets you simulate server side routing without going though the effort of making a server for a page and easily lets you manage data.
+
+
 > Answer:
 
 ## Project Set Up
